@@ -39,7 +39,7 @@ while True:
     elif opcao == '0':
         break
     else:
-        print("Opção inválida! Escolha um número de 1 a 7 ou 0 para finalizar.")
+        print("Inválido! Escolha um número de 1 a 7 ou 0 para finalizar.")
     
     print(f"Subtotal atual: R${total:.2f}")
 
